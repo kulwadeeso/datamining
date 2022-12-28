@@ -1,1 +1,3 @@
-*.class*.class*.class*.class*.class*.class*.class*.class
+*.class
+.idea/
+target/
